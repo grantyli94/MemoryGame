@@ -1,0 +1,42 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#game div {
+    border: 1px solid black;
+    width: 100px;
+    height: 120px;
+    margin: 20px;
+    display: inline-block;
+  }
+
+div#game {
+    width: 800px;
+}
+
+.facedown {
+    background-color:white !important;
+    background-image: url(https://image.pngaaa.com/601/601-middle.png);
+    background-size: 100px 120px;
+    background-repeat: no-repeat;
+}
+
+.green {
+    background-color:green;
+}
+
+.red {
+    background-color:red;
+}
+
+.purple {
+    background-color:purple;
+}
+
+.blue {
+    background-color:blue;
+}
+
+.orange {
+    background-color:orange;
+}
